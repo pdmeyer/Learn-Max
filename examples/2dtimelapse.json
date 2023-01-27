@@ -1,0 +1,74 @@
+{
+	"pattrstorage" : 	{
+		"name" : "2dtimelapse",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"col_overdub" : [ "col_overdub", 0.0 ],
+					"col_speed" : [ 0.0 ],
+					"feedback" : [ 1.0 ],
+					"framerate" : [ 33 ],
+					"row_overdub" : [ "row_overdub", 1.0 ],
+					"row_speed" : [ 1.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"col_overdub" : [ "col_overdub", 0.0 ],
+					"col_speed" : [ 0.0 ],
+					"feedback" : [ 1.0 ],
+					"framerate" : [ 33 ],
+					"row_overdub" : [ "row_overdub", 0.300000011920929 ],
+					"row_speed" : [ 1.4 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"col_overdub" : [ "col_overdub", 1.0 ],
+					"col_speed" : [ 2.0 ],
+					"feedback" : [ 1.0 ],
+					"framerate" : [ 33 ],
+					"row_overdub" : [ "row_overdub", 0.300000011920929 ],
+					"row_speed" : [ 1.4 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"col_overdub" : [ "col_overdub", 5.0 ],
+					"col_speed" : [ 2.0 ],
+					"feedback" : [ 1.0 ],
+					"framerate" : [ 33 ],
+					"row_overdub" : [ "row_overdub", 0.300000011920929 ],
+					"row_speed" : [ 1.4 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"col_overdub" : [ "col_overdub", -0.200000002980232 ],
+					"col_speed" : [ 2.0 ],
+					"feedback" : [ 1.0 ],
+					"framerate" : [ 33 ],
+					"row_overdub" : [ "row_overdub", -6.0 ],
+					"row_speed" : [ 1.4 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

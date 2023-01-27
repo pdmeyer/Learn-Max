@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "distort-displace">
+	<slot number = "1">
+		<pattr name = "movieFile" value = "chickens.mp4" />
+		<pattr name = "displaceSource" value = "0" />
+		<pattr name = "distortBypass" value = "0" />
+		<pattr name = "distortColor1" value = "1." />
+		<pattr name = "distortColor2" value = "1." />
+		<pattr name = "rowsAutoInterval" value = "0" />
+		<pattr name = "rowsRowMultiplier" value = "0." />
+		<pattr name = "worldEnable" value = "1" />
+		<patcher name = "easemappr">
+			<pattr name = "hzoom-mult" value = "0" />
+			<pattr name = "Hangle" value = "90." />
+			<pattr name = "operator" value = "11." />
+			<pattr name = "Hfunc" value = "29." />
+			<pattr name = "Hfreq" value = "0.787402" />
+			<pattr name = "Hcmode" value = "1." />
+			<pattr name = "Hoffset_x" value = "0." />
+			<pattr name = "Hoffset_y" value = "0.102362" />
+			<pattr name = "vzoom-mult" value = "0" />
+			<pattr name = "Vangle" value = "-100.393701" />
+			<pattr name = "Vfunc" value = "3." />
+			<pattr name = "Vfreq" value = "3.937008" />
+			<pattr name = "Vcmode" value = "1." />
+			<pattr name = "Hoffset_x[1]" value = "0." />
+			<pattr name = "Hoffset_y[1]" value = "0." />
+			<pattr name = "Htilebound" value = "1." />
+			<pattr name = "Htilebound[1]" value = "1." />
+			<pattr name = "lozoom" value = "0.212598" />
+			<pattr name = "hizoom" value = "1." />
+			<pattr name = "lozoom[1]" value = "-0.653543" />
+			<pattr name = "hizoom[1]" value = "1." />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "movieFile" value = "chickens.mp4" />
+		<pattr name = "displaceSource" value = "1" />
+		<pattr name = "distortBypass" value = "0" />
+		<pattr name = "distortColor1" value = "1" />
+		<pattr name = "distortColor2" value = "1" />
+		<pattr name = "rowsAutoInterval" value = "1" />
+		<pattr name = "rowsRowMultiplier" value = "0.04" />
+		<pattr name = "worldEnable" value = "1" />
+		<patcher name = "easemappr">
+			<pattr name = "hzoom-mult" value = "0" />
+			<pattr name = "Hangle" value = "90." />
+			<pattr name = "operator" value = "11." />
+			<pattr name = "Hfunc" value = "29." />
+			<pattr name = "Hfreq" value = "0.787402" />
+			<pattr name = "Hcmode" value = "1." />
+			<pattr name = "Hoffset_x" value = "0." />
+			<pattr name = "Hoffset_y" value = "0.102362" />
+			<pattr name = "vzoom-mult" value = "0" />
+			<pattr name = "Vangle" value = "-100.393701" />
+			<pattr name = "Vfunc" value = "3." />
+			<pattr name = "Vfreq" value = "3.937008" />
+			<pattr name = "Vcmode" value = "1." />
+			<pattr name = "Hoffset_x[1]" value = "0." />
+			<pattr name = "Hoffset_y[1]" value = "0." />
+			<pattr name = "Htilebound" value = "1." />
+			<pattr name = "Htilebound[1]" value = "1." />
+			<pattr name = "lozoom" value = "0.212598" />
+			<pattr name = "hizoom" value = "1." />
+			<pattr name = "lozoom[1]" value = "-0.653543" />
+			<pattr name = "hizoom[1]" value = "1." />
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<pattr name = "movieFile" value = "chickens.mp4" />
+		<pattr name = "displaceSource" value = "1" />
+		<pattr name = "distortBypass" value = "0" />
+		<pattr name = "distortColor1" value = "1" />
+		<pattr name = "distortColor2" value = "1" />
+		<pattr name = "rowsAutoInterval" value = "40" />
+		<pattr name = "rowsRowMultiplier" value = "0.0018" />
+		<pattr name = "worldEnable" value = "1" />
+		<patcher name = "easemappr">
+			<pattr name = "hzoom-mult" value = "0" />
+			<pattr name = "Hangle" value = "90." />
+			<pattr name = "operator" value = "11." />
+			<pattr name = "Hfunc" value = "29." />
+			<pattr name = "Hfreq" value = "0.787402" />
+			<pattr name = "Hcmode" value = "1." />
+			<pattr name = "Hoffset_x" value = "0." />
+			<pattr name = "Hoffset_y" value = "0.102362" />
+			<pattr name = "vzoom-mult" value = "0" />
+			<pattr name = "Vangle" value = "-100.393701" />
+			<pattr name = "Vfunc" value = "3." />
+			<pattr name = "Vfreq" value = "3.937008" />
+			<pattr name = "Vcmode" value = "1." />
+			<pattr name = "Hoffset_x[1]" value = "0." />
+			<pattr name = "Hoffset_y[1]" value = "0." />
+			<pattr name = "Htilebound" value = "1." />
+			<pattr name = "Htilebound[1]" value = "1." />
+			<pattr name = "lozoom" value = "0.212598" />
+			<pattr name = "hizoom" value = "1." />
+			<pattr name = "lozoom[1]" value = "-0.653543" />
+			<pattr name = "hizoom[1]" value = "1." />
+		</patcher>
+	</slot>
+	<slot number = "4">
+		<pattr name = "movieFile" value = "chickens.mp4" />
+		<pattr name = "displaceSource" value = "2" />
+		<pattr name = "distortBypass" value = "0" />
+		<pattr name = "distortColor1" value = "0.39" />
+		<pattr name = "distortColor2" value = "1." />
+		<pattr name = "rowsAutoInterval" value = "0" />
+		<pattr name = "rowsRowMultiplier" value = "0.0018" />
+		<pattr name = "worldEnable" value = "1" />
+		<patcher name = "easemappr">
+			<pattr name = "hzoom-mult" value = "0" />
+			<pattr name = "Hangle" value = "90." />
+			<pattr name = "operator" value = "11." />
+			<pattr name = "Hfunc" value = "29." />
+			<pattr name = "Hfreq" value = "0.787402" />
+			<pattr name = "Hcmode" value = "1." />
+			<pattr name = "Hoffset_x" value = "0." />
+			<pattr name = "Hoffset_y" value = "0.102362" />
+			<pattr name = "vzoom-mult" value = "0" />
+			<pattr name = "Vangle" value = "-100.393701" />
+			<pattr name = "Vfunc" value = "3." />
+			<pattr name = "Vfreq" value = "3.937008" />
+			<pattr name = "Vcmode" value = "1." />
+			<pattr name = "Hoffset_x[1]" value = "0." />
+			<pattr name = "Hoffset_y[1]" value = "0." />
+			<pattr name = "Htilebound" value = "1." />
+			<pattr name = "Htilebound[1]" value = "1." />
+			<pattr name = "lozoom" value = "0.212598" />
+			<pattr name = "hizoom" value = "1." />
+			<pattr name = "lozoom[1]" value = "-0.653543" />
+			<pattr name = "hizoom[1]" value = "1." />
+		</patcher>
+	</slot>
+	<slot number = "5">
+		<pattr name = "movieFile" value = "chickens.mp4" />
+		<pattr name = "displaceSource" value = "2" />
+		<pattr name = "distortBypass" value = "0" />
+		<pattr name = "distortColor1" value = "1" />
+		<pattr name = "distortColor2" value = "1" />
+		<pattr name = "rowsAutoInterval" value = "0" />
+		<pattr name = "rowsRowMultiplier" value = "0.0018" />
+		<pattr name = "worldEnable" value = "1" />
+		<patcher name = "easemappr">
+			<pattr name = "hzoom-mult" value = "0" />
+			<pattr name = "Hangle" value = "90." />
+			<pattr name = "operator" value = "12." />
+			<pattr name = "Hfunc" value = "29." />
+			<pattr name = "Hfreq" value = "43.307087" />
+			<pattr name = "Hcmode" value = "1." />
+			<pattr name = "Hoffset_x" value = "0." />
+			<pattr name = "Hoffset_y" value = "0.102362" />
+			<pattr name = "vzoom-mult" value = "0" />
+			<pattr name = "Vangle" value = "-100.393701" />
+			<pattr name = "Vfunc" value = "3." />
+			<pattr name = "Vfreq" value = "10.23622" />
+			<pattr name = "Vcmode" value = "1." />
+			<pattr name = "Hoffset_x[1]" value = "0." />
+			<pattr name = "Hoffset_y[1]" value = "0." />
+			<pattr name = "Htilebound" value = "1." />
+			<pattr name = "Htilebound[1]" value = "1." />
+			<pattr name = "lozoom" value = "-0.385827" />
+			<pattr name = "hizoom" value = "1." />
+			<pattr name = "lozoom[1]" value = "-0.653543" />
+			<pattr name = "hizoom[1]" value = "1." />
+		</patcher>
+	</slot>
+	<slot number = "6">
+		<pattr name = "movieFile" value = "chickens.mp4" />
+		<pattr name = "displaceSource" value = "2" />
+		<pattr name = "distortBypass" value = "0" />
+		<pattr name = "distortColor1" value = "1" />
+		<pattr name = "distortColor2" value = "1" />
+		<pattr name = "rowsAutoInterval" value = "0" />
+		<pattr name = "rowsRowMultiplier" value = "0.0018" />
+		<pattr name = "worldEnable" value = "1" />
+		<patcher name = "easemappr">
+			<pattr name = "hzoom-mult" value = "0" />
+			<pattr name = "Hangle" value = "16.3" />
+			<pattr name = "operator" value = "12." />
+			<pattr name = "Hfunc" value = "24." />
+			<pattr name = "Hfreq" value = "3.937008" />
+			<pattr name = "Hcmode" value = "1." />
+			<pattr name = "Hoffset_x" value = "0." />
+			<pattr name = "Hoffset_y" value = "0.102362" />
+			<pattr name = "vzoom-mult" value = "0" />
+			<pattr name = "Vangle" value = "-100.393701" />
+			<pattr name = "Vfunc" value = "3." />
+			<pattr name = "Vfreq" value = "3.937008" />
+			<pattr name = "Vcmode" value = "1." />
+			<pattr name = "Hoffset_x[1]" value = "0." />
+			<pattr name = "Hoffset_y[1]" value = "0." />
+			<pattr name = "Htilebound" value = "1." />
+			<pattr name = "Htilebound[1]" value = "1." />
+			<pattr name = "lozoom" value = "-0.385827" />
+			<pattr name = "hizoom" value = "1." />
+			<pattr name = "lozoom[1]" value = "-0.653543" />
+			<pattr name = "hizoom[1]" value = "1." />
+		</patcher>
+	</slot>
+	<slot number = "7">
+		<pattr name = "movieFile" value = "chickens.mp4" />
+		<pattr name = "displaceSource" value = "2" />
+		<pattr name = "distortBypass" value = "0" />
+		<pattr name = "distortColor1" value = "1" />
+		<pattr name = "distortColor2" value = "1" />
+		<pattr name = "rowsAutoInterval" value = "0" />
+		<pattr name = "rowsRowMultiplier" value = "0.0018" />
+		<pattr name = "worldEnable" value = "1" />
+		<patcher name = "easemappr">
+			<pattr name = "hzoom-mult" value = "0" />
+			<pattr name = "Hangle" value = "16.3" />
+			<pattr name = "operator" value = "6." />
+			<pattr name = "Hfunc" value = "24." />
+			<pattr name = "Hfreq" value = "3.937008" />
+			<pattr name = "Hcmode" value = "1." />
+			<pattr name = "Hoffset_x" value = "0." />
+			<pattr name = "Hoffset_y" value = "0.102362" />
+			<pattr name = "vzoom-mult" value = "0" />
+			<pattr name = "Vangle" value = "-100.393701" />
+			<pattr name = "Vfunc" value = "3." />
+			<pattr name = "Vfreq" value = "3.937008" />
+			<pattr name = "Vcmode" value = "1." />
+			<pattr name = "Hoffset_x[1]" value = "0." />
+			<pattr name = "Hoffset_y[1]" value = "0." />
+			<pattr name = "Htilebound" value = "1." />
+			<pattr name = "Htilebound[1]" value = "1." />
+			<pattr name = "lozoom" value = "-0.385827" />
+			<pattr name = "hizoom" value = "1." />
+			<pattr name = "lozoom[1]" value = "-0.653543" />
+			<pattr name = "hizoom[1]" value = "1." />
+		</patcher>
+	</slot>
+	<slot number = "8">
+		<pattr name = "movieFile" value = "chickens.mp4" />
+		<pattr name = "displaceSource" value = "2" />
+		<pattr name = "distortBypass" value = "0" />
+		<pattr name = "distortColor1" value = "0.051" />
+		<pattr name = "distortColor2" value = "0." />
+		<pattr name = "rowsAutoInterval" value = "0" />
+		<pattr name = "rowsRowMultiplier" value = "0.0018" />
+		<pattr name = "worldEnable" value = "1" />
+		<patcher name = "easemappr">
+			<pattr name = "hzoom-mult" value = "0" />
+			<pattr name = "Hangle" value = "16.3" />
+			<pattr name = "operator" value = "6." />
+			<pattr name = "Hfunc" value = "24." />
+			<pattr name = "Hfreq" value = "3.937008" />
+			<pattr name = "Hcmode" value = "1." />
+			<pattr name = "Hoffset_x" value = "0." />
+			<pattr name = "Hoffset_y" value = "0.102362" />
+			<pattr name = "vzoom-mult" value = "0" />
+			<pattr name = "Vangle" value = "-100.393701" />
+			<pattr name = "Vfunc" value = "3." />
+			<pattr name = "Vfreq" value = "3.937008" />
+			<pattr name = "Vcmode" value = "1." />
+			<pattr name = "Hoffset_x[1]" value = "0." />
+			<pattr name = "Hoffset_y[1]" value = "0." />
+			<pattr name = "Htilebound" value = "1." />
+			<pattr name = "Htilebound[1]" value = "1." />
+			<pattr name = "lozoom" value = "-0.385827" />
+			<pattr name = "hizoom" value = "1." />
+			<pattr name = "lozoom[1]" value = "-0.653543" />
+			<pattr name = "hizoom[1]" value = "1." />
+		</patcher>
+	</slot>
+	<slot number = "9">
+		<pattr name = "movieFile" value = "chickens.mp4" />
+		<pattr name = "displaceSource" value = "2" />
+		<pattr name = "distortBypass" value = "0" />
+		<pattr name = "distortColor1" value = "0.051" />
+		<pattr name = "distortColor2" value = "1." />
+		<pattr name = "rowsAutoInterval" value = "0" />
+		<pattr name = "rowsRowMultiplier" value = "0.0018" />
+		<pattr name = "worldEnable" value = "1" />
+		<patcher name = "easemappr">
+			<pattr name = "hzoom-mult" value = "0" />
+			<pattr name = "Hangle" value = "16.3" />
+			<pattr name = "operator" value = "6." />
+			<pattr name = "Hfunc" value = "24." />
+			<pattr name = "Hfreq" value = "3.937008" />
+			<pattr name = "Hcmode" value = "1." />
+			<pattr name = "Hoffset_x" value = "0." />
+			<pattr name = "Hoffset_y" value = "0.102362" />
+			<pattr name = "vzoom-mult" value = "0" />
+			<pattr name = "Vangle" value = "-100.393701" />
+			<pattr name = "Vfunc" value = "3." />
+			<pattr name = "Vfreq" value = "3.937008" />
+			<pattr name = "Vcmode" value = "1." />
+			<pattr name = "Hoffset_x[1]" value = "0." />
+			<pattr name = "Hoffset_y[1]" value = "0." />
+			<pattr name = "Htilebound" value = "1." />
+			<pattr name = "Htilebound[1]" value = "1." />
+			<pattr name = "lozoom" value = "-0.385827" />
+			<pattr name = "hizoom" value = "1." />
+			<pattr name = "lozoom[1]" value = "-0.653543" />
+			<pattr name = "hizoom[1]" value = "1." />
+		</patcher>
+	</slot>
+	<slot number = "10">
+		<pattr name = "movieFile" value = "chickens.mp4" />
+		<pattr name = "displaceSource" value = "2" />
+		<pattr name = "distortBypass" value = "0" />
+		<pattr name = "distortColor1" value = "0" />
+		<pattr name = "distortColor2" value = "1." />
+		<pattr name = "rowsAutoInterval" value = "0" />
+		<pattr name = "rowsRowMultiplier" value = "0.0018" />
+		<pattr name = "worldEnable" value = "1" />
+		<patcher name = "easemappr">
+			<pattr name = "hzoom-mult" value = "0" />
+			<pattr name = "Hangle" value = "16.3" />
+			<pattr name = "operator" value = "6." />
+			<pattr name = "Hfunc" value = "24." />
+			<pattr name = "Hfreq" value = "3.937008" />
+			<pattr name = "Hcmode" value = "1." />
+			<pattr name = "Hoffset_x" value = "0." />
+			<pattr name = "Hoffset_y" value = "0.102362" />
+			<pattr name = "vzoom-mult" value = "0" />
+			<pattr name = "Vangle" value = "-100.393701" />
+			<pattr name = "Vfunc" value = "3." />
+			<pattr name = "Vfreq" value = "3.937008" />
+			<pattr name = "Vcmode" value = "1." />
+			<pattr name = "Hoffset_x[1]" value = "0." />
+			<pattr name = "Hoffset_y[1]" value = "0." />
+			<pattr name = "Htilebound" value = "1." />
+			<pattr name = "Htilebound[1]" value = "1." />
+			<pattr name = "lozoom" value = "-0.385827" />
+			<pattr name = "hizoom" value = "1." />
+			<pattr name = "lozoom[1]" value = "-0.653543" />
+			<pattr name = "hizoom[1]" value = "1." />
+		</patcher>
+	</slot>
+	<slot number = "11">
+		<pattr name = "movieFile" value = "chickens.mp4" />
+		<pattr name = "displaceSource" value = "2" />
+		<pattr name = "distortBypass" value = "0" />
+		<pattr name = "distortColor1" value = "0" />
+		<pattr name = "distortColor2" value = "1." />
+		<pattr name = "rowsAutoInterval" value = "0" />
+		<pattr name = "rowsRowMultiplier" value = "0.0018" />
+		<pattr name = "worldEnable" value = "1" />
+		<patcher name = "easemappr">
+			<pattr name = "hzoom-mult" value = "0" />
+			<pattr name = "Hangle" value = "16.3" />
+			<pattr name = "operator" value = "6." />
+			<pattr name = "Hfunc" value = "15." />
+			<pattr name = "Hfreq" value = "3.937008" />
+			<pattr name = "Hcmode" value = "1." />
+			<pattr name = "Hoffset_x" value = "0." />
+			<pattr name = "Hoffset_y" value = "0.102362" />
+			<pattr name = "vzoom-mult" value = "0" />
+			<pattr name = "Vangle" value = "-100.393701" />
+			<pattr name = "Vfunc" value = "3." />
+			<pattr name = "Vfreq" value = "3.937008" />
+			<pattr name = "Vcmode" value = "1." />
+			<pattr name = "Hoffset_x[1]" value = "0." />
+			<pattr name = "Hoffset_y[1]" value = "0." />
+			<pattr name = "Htilebound" value = "1." />
+			<pattr name = "Htilebound[1]" value = "1." />
+			<pattr name = "lozoom" value = "0.543307" />
+			<pattr name = "hizoom" value = "1." />
+			<pattr name = "lozoom[1]" value = "-0.653543" />
+			<pattr name = "hizoom[1]" value = "1." />
+		</patcher>
+	</slot>
+</pattrstorage>
+

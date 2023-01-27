@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "scrambled-sample">
+	<slot number = "1">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.12" />
+		<pattr name = "frequency" value = "6.44" />
+		<pattr name = "frequencyMode" value = "1" />
+		<pattr name = "modulationOffset" value = "0." />
+		<pattr name = "modulationRange" value = "0.2" />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.466" />
+		<pattr name = "selectedSample" value = "resonant-copy-machine.wav" />
+		<pattr name = "selectionEnd" value = "16537.479167" />
+		<pattr name = "selectionStart" value = "0." />
+		<pattr name = "smoothing" value = "1." />
+	</slot>
+	<slot number = "2">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.12" />
+		<pattr name = "frequency" value = "6.44" />
+		<pattr name = "frequencyMode" value = "1" />
+		<pattr name = "modulationOffset" value = "0." />
+		<pattr name = "modulationRange" value = "0.2" />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.466" />
+		<pattr name = "selectedSample" value = "mallet-cycle.wav" />
+		<pattr name = "selectionEnd" value = "78975.60364" />
+		<pattr name = "selectionStart" value = "40768.164676" />
+		<pattr name = "smoothing" value = "1." />
+	</slot>
+	<slot number = "3">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.65" />
+		<pattr name = "frequency" value = "6.44" />
+		<pattr name = "frequencyMode" value = "2" />
+		<pattr name = "modulationOffset" value = "0." />
+		<pattr name = "modulationRange" value = "0.2" />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.484" />
+		<pattr name = "selectedSample" value = "mallet-cycle.wav" />
+		<pattr name = "selectionEnd" value = "78975.60364" />
+		<pattr name = "selectionStart" value = "40768.164676" />
+		<pattr name = "smoothing" value = "0." />
+	</slot>
+	<slot number = "4">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.1" />
+		<pattr name = "frequency" value = "6.44" />
+		<pattr name = "frequencyMode" value = "2" />
+		<pattr name = "modulationOffset" value = "0." />
+		<pattr name = "modulationRange" value = "0.2" />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "1." />
+		<pattr name = "selectedSample" value = "mallet-cycle.wav" />
+		<pattr name = "selectionEnd" value = "78975.60364" />
+		<pattr name = "selectionStart" value = "40768.164676" />
+		<pattr name = "smoothing" value = "0." />
+	</slot>
+	<slot number = "5">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0." />
+		<pattr name = "frequency" value = "-33." />
+		<pattr name = "frequencyMode" value = "2" />
+		<pattr name = "modulationOffset" value = "0." />
+		<pattr name = "modulationRange" value = "3.5" />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.37" />
+		<pattr name = "selectedSample" value = "long-bowed.wav" />
+		<pattr name = "selectionEnd" value = "31545.229167" />
+		<pattr name = "selectionStart" value = "9066.229167" />
+		<pattr name = "smoothing" value = "0.7" />
+	</slot>
+	<slot number = "6">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.3" />
+		<pattr name = "frequency" value = "1.5" />
+		<pattr name = "frequencyMode" value = "2" />
+		<pattr name = "modulationOffset" value = "-0.66" />
+		<pattr name = "modulationRange" value = "0.1" />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.37" />
+		<pattr name = "selectedSample" value = "granular-clara-1.wav" />
+		<pattr name = "selectionEnd" value = "11747.5625" />
+		<pattr name = "selectionStart" value = "0." />
+		<pattr name = "smoothing" value = "0.7" />
+	</slot>
+	<slot number = "7">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.3" />
+		<pattr name = "frequency" value = "8.65" />
+		<pattr name = "frequencyMode" value = "2" />
+		<pattr name = "modulationOffset" value = "-0.66" />
+		<pattr name = "modulationRange" value = "2.4" />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.37" />
+		<pattr name = "selectedSample" value = "granular-clara-1.wav" />
+		<pattr name = "selectionEnd" value = "14335.791667" />
+		<pattr name = "selectionStart" value = "9806.395833" />
+		<pattr name = "smoothing" value = "0.7" />
+	</slot>
+	<slot number = "8">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.3" />
+		<pattr name = "frequency" value = "8.65" />
+		<pattr name = "frequencyMode" value = "2" />
+		<pattr name = "modulationOffset" value = "-0.66" />
+		<pattr name = "modulationRange" value = "2.4" />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.37" />
+		<pattr name = "selectedSample" value = "granular-clara-1.wav" />
+		<pattr name = "selectionEnd" value = "14335.791667" />
+		<pattr name = "selectionStart" value = "9806.395833" />
+		<pattr name = "smoothing" value = "0." />
+	</slot>
+	<slot number = "9">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.3" />
+		<pattr name = "frequency" value = "8.65" />
+		<pattr name = "frequencyMode" value = "2" />
+		<pattr name = "modulationOffset" value = "-7.9" />
+		<pattr name = "modulationRange" value = "-10.1" />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.37" />
+		<pattr name = "selectedSample" value = "granular-clara-1.wav" />
+		<pattr name = "selectionEnd" value = "14335.791667" />
+		<pattr name = "selectionStart" value = "9806.395833" />
+		<pattr name = "smoothing" value = "0." />
+	</slot>
+	<slot number = "10">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.3" />
+		<pattr name = "frequency" value = "-9.8" />
+		<pattr name = "frequencyMode" value = "2" />
+		<pattr name = "modulationOffset" value = "-7.9" />
+		<pattr name = "modulationRange" value = "621." />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.37" />
+		<pattr name = "selectedSample" value = "mallets-brushes.wav" />
+		<pattr name = "selectionEnd" value = "10480.666667" />
+		<pattr name = "selectionStart" value = "10457.291667" />
+		<pattr name = "smoothing" value = "0." />
+	</slot>
+	<slot number = "11">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.4" />
+		<pattr name = "frequency" value = "2.2" />
+		<pattr name = "frequencyMode" value = "2" />
+		<pattr name = "modulationOffset" value = "21." />
+		<pattr name = "modulationRange" value = "21." />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.2" />
+		<pattr name = "selectedSample" value = "mallets-brushes.wav" />
+		<pattr name = "selectionEnd" value = "10480.666667" />
+		<pattr name = "selectionStart" value = "10457.291667" />
+		<pattr name = "smoothing" value = "1." />
+	</slot>
+	<slot number = "12">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.3" />
+		<pattr name = "frequency" value = "8.65" />
+		<pattr name = "frequencyMode" value = "2" />
+		<pattr name = "modulationOffset" value = "-0.66" />
+		<pattr name = "modulationRange" value = "2.4" />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.37" />
+		<pattr name = "selectedSample" value = "mallet-cycle.wav" />
+		<pattr name = "selectionEnd" value = "89348.982683" />
+		<pattr name = "selectionStart" value = "88949.390833" />
+		<pattr name = "smoothing" value = "0." />
+	</slot>
+	<slot number = "13">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.11" />
+		<pattr name = "frequency" value = "0.8" />
+		<pattr name = "frequencyMode" value = "2" />
+		<pattr name = "modulationOffset" value = "0." />
+		<pattr name = "modulationRange" value = "40." />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.5" />
+		<pattr name = "selectedSample" value = "mallet-cycle.wav" />
+		<pattr name = "selectionEnd" value = "89348.982683" />
+		<pattr name = "selectionStart" value = "88949.390833" />
+		<pattr name = "smoothing" value = "1." />
+	</slot>
+	<slot number = "14">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.5" />
+		<pattr name = "frequency" value = "0.8" />
+		<pattr name = "frequencyMode" value = "2" />
+		<pattr name = "modulationOffset" value = "0." />
+		<pattr name = "modulationRange" value = "40." />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.5" />
+		<pattr name = "selectedSample" value = "mallet-cycle.wav" />
+		<pattr name = "selectionEnd" value = "89348.982683" />
+		<pattr name = "selectionStart" value = "88949.390833" />
+		<pattr name = "smoothing" value = "1." />
+	</slot>
+	<slot number = "15">
+		<pattr name = "samples" value = "deep-mallet-breath.wav granular-clara-1.wav granular-clara-2.wav granular-clara-3.wav long-bowed.wav mallet-cycle.wav mallets-brushes.wav rapid-pluck.wav resonant-copy-machine.wav" />
+		<pattr name = "density" value = "0.12" />
+		<pattr name = "frequency" value = "6.44" />
+		<pattr name = "frequencyMode" value = "1" />
+		<pattr name = "modulationOffset" value = "0." />
+		<pattr name = "modulationRange" value = "0.2" />
+		<pattr name = "outputGain" value = "-5.43" />
+		<pattr name = "pingpong" value = "0.466" />
+		<pattr name = "selectedSample" value = "resonant-copy-machine.wav" />
+		<pattr name = "selectionEnd" value = "16537.479167" />
+		<pattr name = "selectionStart" value = "0." />
+		<pattr name = "smoothing" value = "1." />
+	</slot>
+</pattrstorage>
+

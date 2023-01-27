@@ -1,0 +1,106 @@
+{
+	"max-basics" : 	{
+		"digest" : "Basic terms and concepts in max. Objects: the patching window, the menu bar, learning and community resources"
+	}
+,
+	"01_button" : 	{
+		"digest" : "Our first object - the humble button. Buttons produce 'bangs'."
+	}
+,
+	"02_numberbox" : 	{
+		"digest" : "Introduction to numbers in Max.."
+	}
+,
+	"03_messagebox" : 	{
+		"digest" : "Working with messages, symbols, and lists in Max."
+	}
+,
+	"04_pack" : 	{
+		"digest" : "Combining numbers and symbols together to make lists."
+	}
+,
+	"05_metro" : 	{
+		"digest" : "Our first exposure to timing in Max. Metro pumps out a regular succession of bangs."
+	}
+,
+	"06_random" : 	{
+		"digest" : "Generate random numbers to feed chaos into your patches."
+	}
+,
+	"07_noteout" : 	{
+		"digest" : "Use MIDI to communicate with synths and software outside of Max."
+	}
+,
+	"08_patcher" : 	{
+		"digest" : "Nest Max patches inside of Max patches"
+	}
+,
+	"09_cycle~" : 	{
+		"digest" : "Our first MSP (audio processing) object! A sine oscillator"
+	}
+,
+	"10_buffer~" : 	{
+		"digest" : "Store audio clips for use in your Max patch"
+	}
+,
+	"11_jit.matrix" : 	{
+		"digest" : "Our first Jitter (video processing) object! jit.matrix stores a video frame."
+	}
+,
+	"event-ordering" : 	{
+		"digest" : "When working with Max objects, the order in which things happen is really important. This patch explains how event ordering works in Max and how to control it. "
+	}
+,
+	"object-types-and-data-types" : 	{
+		"digest" : "Max has different categories of objects: some process audio, some process video, others handle simple numbers, symbols, and lists. This patch shows you how to recognize different data types and objects."
+	}
+,
+	"lists-and-messages" : 	{
+		"digest" : "All about a simple, common data type - lists."
+	}
+,
+	"the-patching-window" : 	{
+		"digest" : "Essential info about the window where everything happens."
+	}
+,
+	"buffer-drum-machine" : 	{
+		"digest" : "aasdf."
+	}
+,
+	"jitter-distort-and-displace" : 	{
+		"digest" : "Use patterns to warp and distort a video"
+	}
+,
+	"jitter-slitscan" : 	{
+		"digest" : "A 'slit scanning' effect where we grab a single row of a video and watch it change"
+	}
+,
+	"psychedelic-vizzie" : 	{
+		"digest" : "Vizzie is a package of Jitter modules that make it easy to go way out."
+	}
+,
+	"row-by-row" : 	{
+		"digest" : "Move a scanner from top to bottom of a video feed, freezing each row as it passes."
+	}
+,
+	"scrambled-sample" : 	{
+		"digest" : "asdf"
+	}
+,
+	"single-cycle-arpeggiator" : 	{
+		"digest" : "asdF"
+	}
+,
+	"Examples" : 	{
+		"digest" : "Fun examples to play around with"
+	}
+,
+	"Lessons" : 	{
+		"digest" : "A tour through Max, focusing on some of the most important objects"
+	}
+,
+	"Reference" : 	{
+		"digest" : "Handy patches with helpful information for reference."
+	}
+
+}

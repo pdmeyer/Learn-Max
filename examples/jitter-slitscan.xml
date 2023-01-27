@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "jitter-slitscan">
+	<slot number = "1">
+		<pattr name = "cutoffRow" value = "0.5" />
+		<pattr name = "numRows" value = "1080" />
+		<pattr name = "randomRowEnable" value = "1" />
+		<pattr name = "randomRowInterval" value = "34" />
+		<pattr name = "sampleRow" value = "0.525" />
+		<pattr name = "worldEnable" value = "1" />
+		<pattr name = "movieFile" value = "hotspring.mov" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "cutoffRow" value = "0." />
+		<pattr name = "numRows" value = "480" />
+		<pattr name = "randomRowEnable" value = "1" />
+		<pattr name = "randomRowInterval" value = "6" />
+		<pattr name = "sampleRow" value = "0.405556" />
+		<pattr name = "worldEnable" value = "1" />
+		<pattr name = "movieFile" value = "dvkite.mov" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "cutoffRow" value = "0." />
+		<pattr name = "numRows" value = "1080" />
+		<pattr name = "randomRowEnable" value = "1" />
+		<pattr name = "randomRowInterval" value = "100" />
+		<pattr name = "sampleRow" value = "0.269444" />
+		<pattr name = "worldEnable" value = "1" />
+		<pattr name = "movieFile" value = "sunflower.mp4" />
+	</slot>
+	<slot number = "4">
+		<pattr name = "cutoffRow" value = "0." />
+		<pattr name = "numRows" value = "1080" />
+		<pattr name = "randomRowEnable" value = "1" />
+		<pattr name = "randomRowInterval" value = "34" />
+		<pattr name = "sampleRow" value = "0.139815" />
+		<pattr name = "worldEnable" value = "1" />
+		<pattr name = "movieFile" value = "sunflower.mp4" />
+	</slot>
+	<slot number = "5">
+		<pattr name = "cutoffRow" value = "0.5" />
+		<pattr name = "numRows" value = "1080" />
+		<pattr name = "randomRowEnable" value = "1" />
+		<pattr name = "randomRowInterval" value = "34" />
+		<pattr name = "sampleRow" value = "0.139815" />
+		<pattr name = "worldEnable" value = "1" />
+		<pattr name = "movieFile" value = "sunflower.mp4" />
+	</slot>
+</pattrstorage>
+
