@@ -2,8 +2,8 @@
 .DS_Store
 
 #ignore audio and video files
-/media/sounds
-/media/video
+media/sounds
+media/video
 
 ### macOS ###
 # General
