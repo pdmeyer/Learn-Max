@@ -79,8 +79,8 @@
 		"digest" : "Vizzie is a package of Jitter modules that make it easy to go way out."
 	}
 ,
-	"row-by-row" : 	{
-		"digest" : "Move a scanner from top to bottom of a video feed, freezing each row as it passes."
+	"2dtimelapse" : 	{
+		"digest" : "Move a scanner from top to bottom and left to right of a video feed, freezing each row as it passes."
 	}
 ,
 	"scrambled-sample" : 	{
