@@ -1,8 +1,4 @@
 {
-	"max-basics" : 	{
-		"digest" : "Basic terms and concepts in max. Objects: the patching window, the menu bar, learning and community resources"
-	}
-,
 	"01_button" : 	{
 		"digest" : "Our first object - the humble button. Buttons produce 'bangs'."
 	}
@@ -23,27 +19,23 @@
 		"digest" : "Our first exposure to timing in Max. Metro pumps out a regular succession of bangs."
 	}
 ,
-	"06_random" : 	{
-		"digest" : "Generate random numbers to feed chaos into your patches."
+	"06_playlist~" : 	{
+		"digest" : "Store and play sounds simply."
 	}
 ,
 	"07_noteout" : 	{
 		"digest" : "Use MIDI to communicate with synths and software outside of Max."
 	}
 ,
-	"08_patcher" : 	{
+	"10_patcher" : 	{
 		"digest" : "Nest Max patches inside of Max patches"
 	}
 ,
-	"09_cycle~" : 	{
-		"digest" : "Our first MSP (audio processing) object! A sine oscillator"
+	"08_buffer~" : 	{
+		"digest" : "Powerful container for audio"
 	}
 ,
-	"10_buffer~" : 	{
-		"digest" : "Store audio clips for use in your Max patch"
-	}
-,
-	"11_jit.matrix" : 	{
+	"09_jit.matrix" : 	{
 		"digest" : "Our first Jitter (video processing) object! jit.matrix stores a video frame."
 	}
 ,
@@ -59,7 +51,7 @@
 		"digest" : "All about a simple, common data type - lists."
 	}
 ,
-	"the-patching-window" : 	{
+	"the-patcher" : 	{
 		"digest" : "Essential info about the window where everything happens."
 	}
 ,
@@ -84,11 +76,11 @@
 	}
 ,
 	"scrambled-sample" : 	{
-		"digest" : "asdf"
+		"digest" : "Exploring buffer~ and playing back samples in weird ways."
 	}
 ,
 	"single-cycle-arpeggiator" : 	{
-		"digest" : "asdF"
+		"digest" : "Melodies from sounds drawn with the mouse"
 	}
 ,
 	"Examples" : 	{
@@ -101,6 +93,26 @@
 ,
 	"Reference" : 	{
 		"digest" : "Handy patches with helpful information for reference."
+	}
+,
+	"keyboard-shortcuts" : 	{
+		"digest" : "Everyday keyboard shortcuts we use all the time in Max."
+	}
+,
+	"max-community-resources" : 	{
+		"digest" : "Links to courses, tutorials, community, and help."
+	}
+,
+	"max-objects" : 	{
+		"digest" : "Basics on the things that do everything in Max: objects."
+	}
+,
+	"menu-bar" : 	{
+		"digest" : "Reference guide on the menu bar"
+	}
+,
+	"MIDI-in-max" : 	{
+		"digest" : "Overview on working with MIDI in Max"
 	}
 
 }

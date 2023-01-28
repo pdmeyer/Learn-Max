@@ -3,15 +3,15 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 3,
-			"revision" : 0,
+			"minor" : 5,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 103.0, 87.0, 794.0, 679.0 ],
-		"bglocked" : 0,
+		"rect" : [ 103.0, 87.0, 622.0, 690.0 ],
+		"bglocked" : 1,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
 		"default_fontface" : 0,
@@ -40,15 +40,83 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
-					"fontsize" : 10.0,
-					"id" : "obj-167",
-					"linecount" : 4,
+					"bubble" : 1,
+					"id" : "obj-7",
+					"linecount" : 3,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 311.0, 292.0, 171.0, 51.0 ],
-					"presentation_linecount" : 2,
-					"text" : "(i cannot even tell you how many times i've been pulling my hair out trying to figure out why my patch doesn't work, because of this)",
+					"patching_rect" : [ 260.0, 592.0, 232.0, 51.0 ],
+					"presentation_linecount" : 4,
+					"text" : "when we use trigger, the position of the objects doesn't affect the event order",
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontsize" : 14.0,
+					"id" : "obj-6",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 74.0, 471.0, 418.0, 22.0 ],
+					"text" : "Our friend trigger",
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontsize" : 14.0,
+					"id" : "obj-5",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 74.0, 259.0, 418.0, 22.0 ],
+					"text" : "One outlet to multiple objects",
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontsize" : 14.0,
+					"id" : "obj-4",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 74.0, 117.0, 418.0, 22.0 ],
+					"text" : "Right-to-left ordering",
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bubble" : 1,
+					"hidden" : 1,
+					"id" : "obj-2",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 108.0, 202.0, 252.0, 37.0 ],
+					"presentation_linecount" : 3,
+					"text" : "check the console to see the order that the words are printed (right to left)",
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontsize" : 36.0,
+					"id" : "obj-1",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 78.0, 19.0, 520.0, 47.0 ],
+					"text" : "Event Ordering",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
@@ -60,7 +128,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 207.0, 516.0, 165.0, 24.0 ],
+					"patching_rect" : [ 236.0, 562.0, 165.0, 24.0 ],
 					"text" : "trigger also goes by \"t\"",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
@@ -68,24 +136,26 @@
 			}
 , 			{
 				"box" : 				{
+					"color" : [ 1.0, 0.0, 0.0, 1.0 ],
 					"id" : "obj-165",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "bang" ],
-					"patching_rect" : [ 169.0, 516.0, 32.0, 22.0 ],
+					"patching_rect" : [ 170.0, 562.0, 64.0, 22.0 ],
 					"text" : "t b b"
 				}
 
 			}
 , 			{
 				"box" : 				{
+					"color" : [ 1.0, 0.0, 0.0, 1.0 ],
 					"id" : "obj-164",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "bang" ],
-					"patching_rect" : [ 73.0, 516.0, 63.0, 22.0 ],
+					"patching_rect" : [ 74.0, 562.0, 63.0, 22.0 ],
 					"text" : "trigger b b"
 				}
 
@@ -98,7 +168,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 73.0, 485.0, 24.0, 24.0 ]
+					"patching_rect" : [ 74.0, 531.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -109,7 +179,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 120.0, 550.0, 37.0, 22.0 ],
+					"patching_rect" : [ 121.0, 602.0, 37.0, 22.0 ],
 					"text" : "two-y"
 				}
 
@@ -121,7 +191,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 73.0, 550.0, 39.0, 22.0 ],
+					"patching_rect" : [ 74.0, 602.0, 39.0, 22.0 ],
 					"text" : "one-y"
 				}
 
@@ -132,7 +202,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 73.0, 590.0, 32.0, 22.0 ],
+					"patching_rect" : [ 74.0, 642.0, 32.0, 22.0 ],
 					"text" : "print"
 				}
 
@@ -145,7 +215,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 169.0, 485.0, 24.0, 24.0 ]
+					"patching_rect" : [ 170.0, 531.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -156,7 +226,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 168.0, 550.0, 37.0, 22.0 ],
+					"patching_rect" : [ 170.0, 602.0, 37.0, 22.0 ],
 					"text" : "two-y"
 				}
 
@@ -168,7 +238,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 213.0, 550.0, 39.0, 22.0 ],
+					"patching_rect" : [ 215.0, 602.0, 39.0, 22.0 ],
 					"text" : "one-y"
 				}
 
@@ -181,9 +251,8 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 73.0, 449.0, 299.0, 33.0 ],
-					"presentation_linecount" : 2,
-					"text" : "so... USE TRIGGER!!\nit goes from right to left",
+					"patching_rect" : [ 74.0, 495.0, 299.0, 33.0 ],
+					"text" : "The trigger object is essential for controlling event orddering",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
@@ -196,8 +265,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 73.0, 255.0, 422.0, 35.0 ],
-					"presentation_linecount" : 3,
+					"patching_rect" : [ 74.0, 283.0, 456.0, 35.0 ],
 					"text" : "when you have one outlet going directly to multiple objects, the order of events is determined by the positioning of the objects in the max patch (😱 )",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
@@ -211,7 +279,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 73.0, 300.0, 24.0, 24.0 ]
+					"patching_rect" : [ 74.0, 325.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -222,7 +290,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 120.0, 365.0, 37.0, 22.0 ],
+					"patching_rect" : [ 121.0, 390.0, 37.0, 22.0 ],
 					"text" : "two-y"
 				}
 
@@ -234,7 +302,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 73.0, 365.0, 39.0, 22.0 ],
+					"patching_rect" : [ 74.0, 390.0, 39.0, 22.0 ],
 					"text" : "one-y"
 				}
 
@@ -245,7 +313,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 73.0, 405.0, 32.0, 22.0 ],
+					"patching_rect" : [ 74.0, 430.0, 32.0, 22.0 ],
 					"text" : "print"
 				}
 
@@ -258,7 +326,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 213.0, 300.0, 24.0, 24.0 ]
+					"patching_rect" : [ 214.0, 325.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -269,7 +337,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 168.0, 365.0, 37.0, 22.0 ],
+					"patching_rect" : [ 169.0, 390.0, 37.0, 22.0 ],
 					"text" : "two-y"
 				}
 
@@ -281,57 +349,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 213.0, 365.0, 39.0, 22.0 ],
+					"patching_rect" : [ 214.0, 390.0, 39.0, 22.0 ],
 					"text" : "one-y"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"bubble" : 1,
-					"id" : "obj-136",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 276.0, 111.0, 85.0, 24.0 ],
-					"text" : "reverse it",
-					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-135",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 197.0, 195.0, 131.0, 22.0 ],
-					"text" : "fourth third second first"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-133",
-					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 237.0, 112.0, 37.0, 22.0 ],
-					"text" : "zl.rev"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-132",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 236.0, 83.0, 131.0, 22.0 ],
-					"text" : "first second third fourth"
 				}
 
 			}
@@ -341,7 +360,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 81.0, 195.0, 32.0, 22.0 ],
+					"patching_rect" : [ 74.0, 209.5, 32.0, 22.0 ],
 					"text" : "print"
 				}
 
@@ -353,7 +372,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 5,
 					"outlettype" : [ "", "", "", "", "" ],
-					"patching_rect" : [ 81.0, 155.0, 61.0, 22.0 ],
+					"patching_rect" : [ 74.0, 169.5, 61.0, 22.0 ],
 					"text" : "unjoin 4"
 				}
 
@@ -365,60 +384,48 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 81.0, 83.0, 131.0, 22.0 ],
+					"patching_rect" : [ 74.0, 138.5, 131.0, 22.0 ],
 					"text" : "first second third fourth"
 				}
 
 			}
 , 			{
 				"box" : 				{
+					"hidden" : 1,
 					"id" : "obj-125",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 496.0, 20.0, 58.0, 22.0 ],
+					"patching_rect" : [ 501.0, 73.0, 58.0, 22.0 ],
 					"text" : "loadbang"
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"bubble" : 1,
-					"id" : "obj-124",
-					"linecount" : 2,
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 603.0, 59.0, 162.0, 37.0 ],
-					"text" : "open the max console to see the print messages",
-					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
+					"hidden" : 1,
 					"id" : "obj-121",
 					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 496.0, 59.0, 97.0, 35.0 ],
+					"patching_rect" : [ 501.0, 112.0, 97.0, 35.0 ],
 					"text" : ";\rmax maxwindow"
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"fontsize" : 20.0,
+					"fontsize" : 14.0,
 					"id" : "obj-10",
 					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 81.0, 20.0, 405.0, 51.0 ],
-					"text" : "a super important thing in max is: keeping track of the order in which stuff happens",
+					"patching_rect" : [ 74.0, 73.0, 418.0, 38.0 ],
+					"text" : "Controlling the order in which events occur in Max is really important",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
@@ -427,6 +434,7 @@
 		"lines" : [ 			{
 				"patchline" : 				{
 					"destination" : [ "obj-121", 0 ],
+					"hidden" : 1,
 					"source" : [ "obj-125", 0 ]
 				}
 
@@ -463,29 +471,6 @@
 				"patchline" : 				{
 					"destination" : [ "obj-129", 0 ],
 					"source" : [ "obj-128", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-133", 0 ],
-					"source" : [ "obj-132", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-128", 0 ],
-					"order" : 1,
-					"source" : [ "obj-133", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-135", 1 ],
-					"order" : 0,
-					"source" : [ "obj-133", 0 ]
 				}
 
 			}
