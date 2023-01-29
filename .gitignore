@@ -1,9 +1,12 @@
-#ignore DS_Store
+# ignore DS_Store
 .DS_Store
 
-#ignore audio and video files
+# ignore audio and video files
 media/sounds
 media/video
+
+#ignore installers
+installers
 
 ### macOS ###
 # General
