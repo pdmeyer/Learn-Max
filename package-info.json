@@ -1,0 +1,32 @@
+{
+	"name" : "Learn Max",
+	"displayname" : "",
+	"version" : "0.1.0",
+	"author" : "Philip Meyer",
+	"authors" : [  ],
+	"description" : "Patches for learning Max",
+	"tags" : [ "introduction" ],
+	"website" : "https://github.com/pdmeyer/Learn-Max",
+	"extends" : "",
+	"extensible" : 0,
+	"max_version_min" : "8.5.0",
+	"max_version_max" : "none",
+	"os" : 	{
+		"macintosh" : 		{
+			"min_version" : "10.11.x",
+			"platform" : [ "aarch64", "x64" ]
+		}
+,
+		"windows" : 		{
+			"min_version" : "8",
+			"platform" : [ "x64" ]
+		}
+
+	}
+,
+	"homepatcher" : "LearnMax.maxpat",
+	"package_extra" : 	{
+		"copyright" : "Copyright (c) 2023 Philip Meyer"
+	}
+
+}
